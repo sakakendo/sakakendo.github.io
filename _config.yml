@@ -1,0 +1,9 @@
+title: SAKAKENDO'S HOMEPAGE
+tag_text: sakakendo
+description: 
+
+markdown: kramdown
+exclude: ['README.md']
+saas:
+    style: compressed
+
