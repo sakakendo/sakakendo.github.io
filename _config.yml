@@ -7,5 +7,3 @@ exclude: ['README.md']
 saas:
     style: compressed
 
-
-theme: jekyll-theme-minimal
